@@ -1,0 +1,9 @@
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\ColorPicker.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\Mono.Android.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\mscorlib.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\System.Core.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\System.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\System.Xml.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\assemblies\System.ServiceModel.Internals.dll

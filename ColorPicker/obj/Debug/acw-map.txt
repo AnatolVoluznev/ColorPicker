@@ -1,0 +1,8 @@
+ColorPicker.Activity1, ColorPicker;md5bbc17cde9d6fe4001c0497d82218e8e6.Activity1
+ColorPicker.Activity1, ColorPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bbc17cde9d6fe4001c0497d82218e8e6.Activity1
+ColorPicker.Activity1;md5bbc17cde9d6fe4001c0497d82218e8e6.Activity1
+colorpicker.Activity1;md5bbc17cde9d6fe4001c0497d82218e8e6.Activity1
+ColorPicker.ColorDisplay, ColorPicker;md5bbc17cde9d6fe4001c0497d82218e8e6.ColorDisplay
+ColorPicker.ColorDisplay, ColorPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bbc17cde9d6fe4001c0497d82218e8e6.ColorDisplay
+ColorPicker.ColorDisplay;md5bbc17cde9d6fe4001c0497d82218e8e6.ColorDisplay
+colorpicker.ColorDisplay;md5bbc17cde9d6fe4001c0497d82218e8e6.ColorDisplay

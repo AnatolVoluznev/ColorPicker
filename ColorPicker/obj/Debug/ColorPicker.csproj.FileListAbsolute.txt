@@ -1,0 +1,17 @@
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\bin\Debug\ColorPicker.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\bin\Debug\TextureViewCameraStream.TextureViewCameraStream.apk
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\bin\Debug\TextureViewCameraStream.TextureViewCameraStream-Signed.apk
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\ColorPicker.dll
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\android\bin\TextureViewCameraStream.TextureViewCameraStream.apk
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\res\layout\colordisplay.xml
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\res\values\strings.xml
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\res\drawable\icon.png
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\res\values\styles.xml
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\res\values\theme.xml
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\R.cs.flag
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\uploadflags.txt
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\obj\Debug\ColorPicker.dll.mdb
+E:\Wail_in_grave\Документы\itransition\ColorPicker\ColorPicker\bin\Debug\ColorPicker.dll.mdb
